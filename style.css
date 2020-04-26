@@ -1,0 +1,208 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header img{
+   background-size: cover;
+   width: 100%;
+   height: 950px;
+   background-attachment: fixed;
+}
+
+.top-text{
+    color: white;
+    text-align: center;
+    padding: 300px 0;
+}
+.top-text h1{
+    font-size: 81px;
+    font-family: 'Rock Salt', cursive;
+    text-shadow: 5px 5px 0 black;
+}
+.top-text p{
+    font-size: 20px;
+    padding: 40px;
+    text-shadow: 2px 2px 0 black;
+}
+.profiele{
+    background-color: white;
+    color: black;
+    padding: 80px;
+} 
+.profiele h1{
+    font-size: 75px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+.profiele-left img{
+  height: 50%;
+  width: 100%;
+  margin-top: 20px;
+}
+.profiele-right h4{
+    margin: 20px 0;
+}
+.profiele-right h4 i{
+    margin: 20px 20px 10px 20px;
+}
+.profiele-right li{
+    margin-left: 40px;
+}
+.profiele-right p{
+    margin-left: 40px;
+}
+.profiele-right ul a{
+    padding: 20px 40px;
+    margin-right: 15px;
+}
+.service{
+    background-color: #1d809f;
+    padding-bottom: 150px;
+}
+.service h1{
+    font-size: 75px;
+    text-align: center;
+    padding-top: 150px;
+}
+.service h3{
+    font-size: 20px;
+}
+.service p{
+    text-align: left;
+}
+.serv{
+    border: solid 2px black;
+    width: 90%;
+    text-align: center;
+    padding: 20px;
+    margin: 50px 20px;
+
+}
+.icon{
+    font-size: 80px;
+    padding-bottom: 50px;
+}
+.skill{
+    background-color: white;
+}
+.skill h1{
+    font-size: 75px;
+    text-align: center;
+    padding-top: 110px;
+}
+.skill p{
+    text-align: center;
+}
+.skl{
+    border: solid 2px black;
+    border-radius: 10%;
+    text-align: center;
+    width: 90%;
+    height: 250px;
+    padding: 30px;
+    margin: 50px;
+}
+.portfolio{
+    background-color: #1d809f;
+    padding-bottom: 110px;
+}
+.portfolio h1{
+    font-size: 75px;
+    text-align: center;
+    padding-top: 110px;
+}
+.portfolio h2{
+    text-align: center;
+    margin-bottom: 60px;
+    font-size: 50px;
+    text-shadow: 2px 2px black;
+}
+.portfolio h3 {
+    position: relative;
+    display: inline-block;
+    padding: 0 55px;
+  }
+  
+  .portfolio h3:before, .portfolio h3:after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    display: inline-block;
+    width: 45px;
+    height: 2px;
+    border-top: solid 1px black;
+    border-bottom: solid 1px black;
+  }
+  
+.portfolio h3:before {
+    left:0;
+  }
+.portfolio h3:after {
+    right: 0;
+  }
+.body{
+      padding-top: 50px;
+      margin: 20px 0 50px 0;
+  }
+.body h3{
+    margin: 30px 0;
+}
+.body img{
+    width: 100%;
+    margin: 20px 0;
+}
+.content{
+      margin: 20px;
+  }
+.content h4 {
+    margin-top: 25px;
+    color: black;
+    font-size: 25px;
+}
+.content a{
+    color: blue;
+    margin-left: 20px;
+    font-size: 20px;
+}
+.content a:hover{
+    text-decoration: none;
+}
+.activity h1{
+    font-size: 75px;
+    text-align: center;
+    padding-top: 150px;
+}
+.act img{
+    width: 100%;
+    height: 100%;
+}
+.youtube iframe{
+    width: 100%;
+    height: 320px;
+}
+.contact{
+    background-color: #1d809f;
+    padding-bottom: 110px;
+    text-align: center;
+}
+.contact h1{
+    font-size: 75px;
+    padding-top: 110px;
+}
+.contact p{
+    margin: 20px 0 50px 0;
+}
+.content li{
+    padding: 10px 20px;
+}
+.form-group{
+    width:60%;
+    margin: 0 auto ;
+}
+form button{
+    margin: 0 0 0 20% ;
+    position:  absolute;    
+}
+.contact a{
+    padding: 30px 80px;
+}
